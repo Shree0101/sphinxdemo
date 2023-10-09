@@ -11,6 +11,7 @@ Download the shinx then start it.
 
 How to Download the sphinc https://hibernatingrhinos.com/downloads/RavenDB%20for%20macOS%20x64/54032\
 How to use ith on our system https://sphinx-themes.org/
+this is opttional
 
 Getting start withh sphinx
 ---------------------------
