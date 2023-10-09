@@ -32,4 +32,4 @@ step **six**
    :scale: 40%
    :align: left
    
-   Getting kiran to use sphinx	
+   Getting kiran to use sphinx	system
